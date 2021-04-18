@@ -1,4 +1,4 @@
-<h1 style="font-size: 8em;font-weight: 500">Hi there.</h1>
+### Hi there.
 
 <!--
 **Chaunc3y/Chaunc3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

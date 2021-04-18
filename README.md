@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a **back-end** engineer 
 - 🌱 I’m currently learning **React**, **Vue**, **TypeScript** and **Redis**...
 - 😄 I’m currently Reading _**Effective Java**_ and _**Clean Code**_...
-- 📫 How to reach me: chaunc3y18@163.com
+- 📫 How to reach me: tangch3ng@163.com
 - ……
 
 <div style="display: flex">

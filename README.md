@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a **back-end** engineer 
-- 🌱 I’m currently learning **React**, **Vue**, **TypeScript** and **Redis**...
-- 😄 I’m currently Reading _**Effective Java**_ and _**Clean Code**_...
-- 📫 How to reach me: tangch3ng@163.com
-- ……
 
 <div style="display: flex">
   <img src="https://github-readme-stats.vercel.app/api?username=ryanfawcett&show_icons=true&hide_border=true&hide_title=true" />

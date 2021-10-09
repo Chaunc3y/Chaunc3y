@@ -1,6 +1,6 @@
 ### Hi there!👋
 
-I'm Ryan Fawcett. I work as a full-time software developer.
+I'm Ryan Fawcett, a back-end enthusiast.
 
 <!--
 <div style="display: flex">
